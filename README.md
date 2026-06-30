@@ -43,6 +43,7 @@ Sections ordered alpabetically
  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
 ## Education & Training
+
 ### Courses
  * [vMix Master Class - Video Production & Live Streaming - by Paul Richards](https://www.udemy.com/course/vmix-live-streaming/)
  * [vMix Training: From Basic to Amazing - by Eric Pratt](https://www.udemy.com/course/vmix-training/)
@@ -92,36 +93,40 @@ Sections ordered alpabetically
 
 
 ## Third-party software and development
-### Applications
 
+### Applications
 
 #### Open Source
   * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/audio-matrix-vmix-electron?style=social)
-  * [dp-thumbnail-server - by Adelvo](https://github.com/AdelvoInc/dp-thumbnail-server) ![Github Repo Stars](https://img.shields.io/github/stars/AdelvoInc/dp-thumbnail-server?style=social) - Free thumbnail server for vMix inputs, companion tool for Directors Plan. macOS + Windows + Linux.
+  * [dp-thumbnail-server - by Adelvo](https://github.com/adelvo-software/dp-thumbnail-server) ![Github Repo Stars](https://img.shields.io/github/stars/adelvo-software/dp-thumbnail-server?style=social) - Free thumbnail server for vMix inputs, companion tool for Directors Plan. macOS + Windows.
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/simple-vmix-switcher-electron?style=social)
   * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vinprom?style=social)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking) ![Github Repo Stars](https://img.shields.io/github/stars/Haavard15/vMixAudioMatrix?style=social)
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) ![Github Repo Stars](https://img.shields.io/github/stars/elgarf/vMixUTC?style=social) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+  * [vmix-utility - by FlowingSPDG](https://github.com/FlowingSPDG/vmix-utility) ![Github Repo Stars](https://img.shields.io/github/stars/FlowingSPDG/vmix-utility?style=social)
 
 #### Free (closed source)
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) (previously a paid software product)
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [TimeCode Reader for Production Back-Timing Reference - by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
+  * [VSEditor (Virtual Set Editor) - by DDCast](https://vse.ddcast.com)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [Vrac - Remote Audio Controller for vMix](https://forums.vmix.com/posts/t25619--FREE--Vrac---Remote-Audio-Controller-for-Vmix)
+  * [VRC Hub (Video Recording Control) - by Kotin-ak](https://github.com/Kotin-ak/VRC-Releases) ![Github Repo Stars](https://img.shields.io/github/stars/Kotin-ak/VRC-Releases?style=social) - A native Windows dashboard to monitor Rec/Stream status, CPU/GPU, and disk space for multiple vMix machines simultaneously.
 
 
 #### Paid / Licensed
   * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
-  * ![Price paid](https://img.shields.io/badge/price-%24%20199-orange) [Directors Plan - by Adelvo](https://adelvo.io/directors-plan/) - Visual timeline automation, controller and one-click Companion export for vMix. macOS + Windows. 30-day free trial. $199.
-  * ![Price paid](https://img.shields.io/badge/price-%24%2029-orange) [LLT - Local Live Translator - by Adelvo](https://adelvo.io/local-live-translator/) - Real-time speech translation with direct vMix Title output, OBS Browser Source, VRChat output, plus dictation. Runs 100% local on Apple Silicon (Whisper / Parakeet + Mistral MLX) or connects to Google / Deepgram / AssemblyAI / Azure. 101 languages, macOS. $29, includes free LLT-Mobile iOS companion app (Pro version via $12.99 in-app purchase).
+  * ![Price paid](https://img.shields.io/badge/price-%24%2099%20launch-orange) [Directors Plan - by Adelvo](https://adelvo.io/directors-plan/) - Visual timeline automation, controller and one-click Companion export for vMix. macOS + Windows. Free trial, launch price $99 (regular $199).
+  * ![Price paid](https://img.shields.io/badge/price-%24%2029%20launch-orange) [LLT - Local Live Translator - by Adelvo](https://adelvo.io/local-live-translator/) - Real-time speech translation with direct vMix Title output. Runs 100% local on Apple Silicon (Whisper + Mistral MLX) or connects to Google / Deepgram / AssemblyAI / Azure. 101 languages, macOS. Launch price $29 (regular $49), includes free LLT-Mobile iOS companion app.
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html)
   * ![Price paid](https://img.shields.io/badge/price-unknown-red) [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
   * ![Price paid](https://img.shields.io/badge/price-%24%20220-orange) [VVD (Virtual Video Director)](https://w.np.co.nz/software) - [(Forum post)](https://forums.vmix.com/posts/t3678findunread--NEW---vMix-Audio-Controlled-Switcher---NjastadCom)
 
 ### Libraries
+
 * Open Source
   * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/node-vmix?style=social)
   * [vMix Function List](https://github.com/jensstigaard/vmix-function-list) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-function-list?style=social)
